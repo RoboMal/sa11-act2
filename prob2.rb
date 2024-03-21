@@ -6,3 +6,4 @@ end
 
 p valid_password?("Passw0rd")
 p valid_password?("pass")
+p valid_password?("mothersLove9")
