@@ -1,5 +1,4 @@
 
-
 def extract_hashtags(text)
   pattern = /#.+/   #Solution
   hashtags = text.scan(pattern)
